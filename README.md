@@ -13,16 +13,13 @@
 </p>
 
 ## 🚀 About Me 
-I’m an aspiring Data Analyst and AI student passionate about transforming raw data into actionable insights using Python, SQL, and Power BI. I enjoy building dashboards, automating workflows, and developing machine learning models—especially for healthcare and time-series problems.
+I’m an aspiring Data Analyst and AI student passionate about transforming raw data into actionable insights using Python, SQL, and Power BI. I enjoy building dashboards, automating workflows, and developing machine learning models-especially for healthcare and time-series problems.
 
 Currently pursuing my MS in Artificial Intelligence, I’m focused on continuous learning through real-world projects. I love that “aha!” moment when data uncovers something valuable.
-
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://usmanrasool202.github.io/)
-      
+    
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Developing a machine learning–based glycemic index–aware insulin management support system for personalized blood glucose prediction and optimized insulin dosing.  
+- **Project A:** Developing a machine learning–based glycemic index-aware insulin management support system for personalized blood glucose prediction and optimized insulin dosing.  
 
 ## 🌱 Currently Learning
 
@@ -37,8 +34,9 @@ Currently pursuing my MS in Artificial Intelligence, I’m focused on continuous
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 Machine Learning & AI
+### 🤖 Machine Learning, Deep Learning & AI
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
